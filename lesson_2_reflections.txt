@@ -21,3 +21,8 @@ When you want to experiment with new features for example
 How do the diagrams help you visualize the branch structure?
 
 They are easier to read.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+We have the changes from one branch merged with the other branch
