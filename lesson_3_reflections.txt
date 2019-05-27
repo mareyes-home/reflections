@@ -15,3 +15,7 @@ to local. Branches are for experimenting with your code.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Because of practicality
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Exchanging files, it will be harder to keep track of the changes, but maybe could be faster.
